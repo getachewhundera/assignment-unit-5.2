@@ -1,12 +1,28 @@
+body {
+   background-image: url(record.png); 
+   background-repeat: repeat;
+   margin: 0px; 
+}
+    
+
+
+
 header{
     background-color: darkred;
-    text-emphasis-color: lightgrey;
+    color: aliceblue;
     text-align: center;
 }
 
 main{ 
     background-color: lightgray;
     text-align: center; 
+    padding: 1em; 
+}
+
+main p{ 
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
 }
 
 
